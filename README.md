@@ -27,4 +27,3 @@ by: Zaire Patterson, Vivian San, & Michelle Medina
 
 ©2018
 
-https://mmedina3.github.io/group-git-project-final/
