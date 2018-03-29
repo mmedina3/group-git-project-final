@@ -26,3 +26,5 @@ We created this site for people like ourselves who have a basic knowledge of Git
 by: Zaire Patterson, Vivian San, & Michelle Medina
 
 ©2018
+
+https://mmedina3.github.io/group-git-project-final/
